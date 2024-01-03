@@ -10,9 +10,9 @@
     <div class="col-sm-3 mb-3 mb-sm-4">
       <div class="card" style="width: 18rem">
         <img
-          src="../assets/logo.png"
-          class="card-img-top img-thumbnail"
-          alt="../assets/logo.png"
+          src="../assets/blog1.png"
+          class="card-img-top rounded float-start"
+          alt="../assets/blog1.png"
         />
         <div class="card-body">
           <h5 class="card-title">Building this website</h5>
