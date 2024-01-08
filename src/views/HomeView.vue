@@ -21,6 +21,28 @@
       </div>
     </div>
     <!--Card end-->
+
+    <div class="col-sm-3 mb-3 mb-sm-4">
+      <div class="card" style="width: 18rem">
+        <img
+          src="../assets/blog1.png"
+          class="card-img-top rounded float-start"
+          alt="../assets/blog1.png"
+        />
+        <div class="card-body">
+          <h5 class="card-title">
+            <router-link to="/blog2"
+              >Procedural Grid Map Generation: The Path Way</router-link
+            >
+          </h5>
+          <p class="card-text">Last Modified: 1/8/2024</p>
+          <p class="card-text">
+            This goes through how using pathfinding algorithms like the A* can
+            generate maps and guarantee the paths are possible.
+          </p>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
